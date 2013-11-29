@@ -1,7 +1,7 @@
 open_corpora_lemmatizer
 =======================
 
-Lemmatizer based on the OpenCorpora russian corpus
+Lemmatizer based on the OpenCorpora russian corpus (proof-of-concept)
 
 Instructions
 ---------------------
